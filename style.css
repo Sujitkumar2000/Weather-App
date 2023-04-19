@@ -96,6 +96,7 @@ body{
         margin-right: 0px;
     }
     .card{
+        margin: 40px auto 0;
         width: 100%;
         padding: 40px 10px;
     }
