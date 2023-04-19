@@ -90,3 +90,23 @@ body{
     margin-top: 10px;
     display: none;
 }
+@media(max-width: 460px){
+    .search input{
+        width: 80%;
+        margin-right: 0px;
+    }
+    .card{
+        width: 100%;
+        padding: 40px 10px;
+    }
+    .details{
+        padding: 0 10px;
+        gap: 30px;
+    }
+    .weather h1{
+        font-size: 70px;
+    }
+    .weather h2{
+        font-size: 35px;
+    }
+}
